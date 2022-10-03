@@ -1,0 +1,7 @@
+numpy==1.16.0
+tensorflow==2.0.0
+six==1.11.0
+tqdm
+imageio
+tb-nightly==1.5.0a20171120
+pytest==7.0.1
