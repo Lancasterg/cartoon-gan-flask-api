@@ -8,7 +8,7 @@ import argparse
 import numpy as np
 from tqdm import tqdm
 from datetime import datetime
-from style_transfer.cartoongan import cartoongan
+from cartoon_gan.style_transfer.cartoongan import cartoongan
 
 STYLES = ["shinkai", "hayao", "hosoda", "paprika"]
 VALID_EXTENSIONS = ['jpg', 'png', 'gif', 'JPG', "PNG", "GIF"]

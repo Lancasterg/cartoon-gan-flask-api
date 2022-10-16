@@ -16,7 +16,7 @@ result/
 ckpts/
 input_images/*.jpg
 input_images/*.png
-cartoon-gan/output_images/*
+cartoon_gan/output_images/*
 **/training_checkpoints/
 models/
 light_model/
@@ -29,3 +29,7 @@ old_train.py
 
 clean.sh
 optimized_pbs/
+
+cartoon_gan/input_images
+cartoon_gan/output_images
+
