@@ -1,4 +1,4 @@
-# Flask CartoonGAN API
+# Flask CartoonGAN API [![Docker Image CI](https://github.com/Lancasterg/cartoon-gan-flask-api/actions/workflows/docker-image.yml/badge.svg)](https://github.com/Lancasterg/cartoon-gan-flask-api/actions/workflows/docker-image.yml)
 
 An api for developing cartoon-style images with
 [CartoonGAN (CVPR 2018)](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_CartoonGAN_Generative_Adversarial_CVPR_2018_paper.pdf), 
