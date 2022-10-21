@@ -6,6 +6,7 @@ __pycache__/
 scripts/*.pb
 scripts/runs/
 *_venv
+*-venv
 
 tmp/
 datasets/
@@ -32,4 +33,5 @@ optimized_pbs/
 
 cartoon_gan/input_images
 cartoon_gan/output_images
+*.egg-info
 
