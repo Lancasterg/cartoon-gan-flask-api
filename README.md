@@ -6,7 +6,7 @@ powered by [TensorFlow 2.0](https://www.tensorflow.org/).
 
 The api has been developed by myself using Flask and Flask-RESTful.
 
-!(Before and after)[https://github.com/Lancasterg/cartoon-gan-flask-api/blob/main/docs/maz.png]
+![Before and after](https://github.com/Lancasterg/cartoon-gan-flask-api/blob/main/docs/maz.png)
 
 ## How to run
 
