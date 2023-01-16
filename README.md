@@ -31,6 +31,12 @@ Start the API in development mode.
 $ python flask_api/app.py
 ```
 
+Or run using Docker
+```
+$ bash docker-build-dev.sh
+$ docker run -d -p 5000:5000 cartoon-gan-api:latest
+```
+
 Test the API.
 ```
 $ bash shell_scripts/hit_api.sh 
