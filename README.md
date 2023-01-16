@@ -6,17 +6,9 @@ powered by [TensorFlow 2.0](https://www.tensorflow.org/).
 
 The api has been developed by myself using Flask and Flask-RESTful.
 
-*This project is a work in progress! Many features will not work in the current state!
-*A list of tasks will be created as gitBub issues once the project gets rolling!*
-
-
-## Setup 
-Todo
-
+!(Before and after)[https://github.com/Lancasterg/cartoon-gan-flask-api/docs/max.png]
 
 ## How to run
-
-todo
 
 ```commandline
 python cartoonize.py \
