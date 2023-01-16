@@ -28,7 +28,7 @@ $ pip install -r requirements-cpu.txt       // install requirements for ml
 ### Dev 
 Start the API in development mode.
 ```
-$ python flask-api/app.py
+$ python flask_api/app.py
 ```
 
 Test the API.
