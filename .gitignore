@@ -8,6 +8,8 @@ scripts/runs/
 *_venv
 *-venv
 
+.pytest_cache
+
 tmp/
 datasets/
 .idea/
